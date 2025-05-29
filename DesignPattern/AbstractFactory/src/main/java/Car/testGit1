@@ -1,7 +1,0 @@
-package Car;
-
-public class testGit1 {
-    public static void main(String[] args) {
-        System.out.println("Tu hao nguoi VN");
-    }
-}
